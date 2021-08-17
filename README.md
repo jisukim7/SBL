@@ -3,6 +3,7 @@
 SBL is a programming language implemented with Python using the SLY library.
 
 SBL Datatypes:
+
   ○ Numbers: Integers and Reals
   ○ Booleans: True and False 
   ○ Strings: Sequences of characters enclosed within matching single or double
